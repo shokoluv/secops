@@ -36,3 +36,12 @@ graph TD;
 
 ```
  
+
+Coturn was executed with the commandline options : 
+
+./turnserver -X $PUB_IP_ADDRESS --secure-stun -f -u username:password -r demo.org -a -V --pkey=/home/path_to/turn_server_pkey.pem --cert=/home/path_to/turn_server_cert.pem
+
+
+
+
+
