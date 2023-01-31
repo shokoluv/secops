@@ -9,7 +9,7 @@ cve-20220-24852.cpp - demonsrate improper acess via dummy_bind function. with so
 
 
 
-Structure : 
+Flow : 
 ```mermaid
 graph TD;
     main-->transcieverA;
